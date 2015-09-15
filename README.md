@@ -1,2 +1,2 @@
 # FluidigmTestData
-61 single end samples with two lanes per sample
+29 single end samples with two lanes per sample
